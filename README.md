@@ -1,7 +1,7 @@
 # Welcome to My Dropbox
 ***
 ## Demo
-You can check out the demo of this Instagram clone [here](https://insta-cloner.vercel.app/).
+You can check out the demo of this Dropbox clone [here](https://my-dropbox-app.vercel.app/).
 
 ## Task
 Development of a serverless file synchronization application using ReactJS and Firebase that allows users to authenticate, upload files, and manage folders. The application should feature modern file sharing and storage functionalities.
@@ -16,7 +16,7 @@ This Dropbox-like app aims to replicate key features of popular file hosting ser
 - **Profile Customization**: Edit profiles.
 - **Responsive Design**:User-friendly interface that adapts to various screen sizes.
 
-You can check out the demo of this Instagram clone [here](https://insta-cloner.vercel.app/).
+You can check out the demo of this Dropbox clone [here](https://my-dropbox-app.vercel.app/).
 
 ## Firebase Configuration  
 To connect the application to Firebase, follow these steps:
