@@ -25,7 +25,7 @@ To connect the application to Firebase, follow these steps:
     2. **Add a web app** to the Firebase project and obtain your Firebase configuration object.
     3. Replace the placeholder in your project with the actual Firebase configuration in `firebase.js`:
 
-   ```javascript
+javascript
 // firebase.js
 import firebase from 'firebase/compat/app';
 import 'firebase/compat/auth';
